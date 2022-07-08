@@ -86,7 +86,7 @@ def splitText(
     return subtexts
 
 # splits unformatted code into several code blocks
-# ```<language_filename>
+# ```cpp
 # for (auto it(vec.begin()); it != vec.end(); it++)
 #        it->Update();
 # ```
